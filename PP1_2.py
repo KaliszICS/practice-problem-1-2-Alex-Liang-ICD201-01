@@ -31,9 +31,9 @@ def q4():
 
 def q5():
 
-    message = 'Hello World!'
+    message = 'Hello World'
     print(message)
-    message = 'Goodbye World!'
+    message = 'Goodbye World'
     print(message)
 
 def q6():
